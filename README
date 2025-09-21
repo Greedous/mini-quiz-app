@@ -1,0 +1,24 @@
+# Quiz App
+
+Bu, basit bir 3 soruluk quiz uygulamasıdır. Kullanıcı soruları tek tek yanıtlar ve her sorudan sonra doğru/yanlış feedback alır.  
+
+## Özellikler
+
+- Toplam 3 soruluk quiz.  
+- Sorular arasında geri dönme var,fakat sorular tek seferlik cevaplanır.  
+- Her soru için **Next** butonu ile sonraki soruya geçiş.  
+- Doğru ve yanlış cevaplar **renklerle ayrılmıştır**:  
+  - Doğru cevap: Yeşil  
+  - Yanlış cevap: Kırmızı  
+- Quiz sonunda skor gösterilir: Örnek `1/3`  
+- Quiz bitiminde **"Yeniden Oyna"** butonu ile quiz sıfırlanabilir.
+
+## Kullanım
+
+1. Quiz uygulamasını açın.  
+2. Soruları yanıtlayın, doğru ve yanlış renkli olarak işaretlenir.  
+3. **Next** butonuna basarak sonraki soruya geçin.  
+4. Son sorudan sonra toplam skor gösterilir.  
+5. Yeniden oynamak için **"Yeniden Oyna"** butonuna tıklayın.
+
+
